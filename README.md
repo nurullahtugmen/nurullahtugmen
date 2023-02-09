@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nurullahtugmen
 - 👀 I’m interested in software and electronics
-- 🌱 I’m currently learning Verilog for FPGA
-- 💞️ I’m looking to collaborate on image processing
+- 🌱 I’m currently learning Java
 - 📫 How to reach me nurullahtugmen@hotmail.com
 
 <!---
